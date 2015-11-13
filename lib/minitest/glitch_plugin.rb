@@ -27,7 +27,7 @@ module Minitest
 
   class Glitch
 
-    VERSION = '1.0.0'
+    VERSION = '1.0.1'
 
     attr_reader :io
 

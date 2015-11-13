@@ -1,0 +1,8 @@
+.autotest
+CHANGELOG.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+lib/minitest/glitch.rb
+lib/minitest/glitch_plugin.rb
+test/test_minitest_glitch.rb
